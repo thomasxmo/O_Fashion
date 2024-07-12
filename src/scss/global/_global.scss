@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Italiana&family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+  overflow-x: hidden !important;
+}
+.row {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
+#app {
+  // font-family: var(--main-font);
+  font-family: var(--secound-font);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+.color-green {
+  color: green !important;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e7dede;
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--main-color);
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ff5c8dbd;
+}
+
+.centerColumn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.jc-start {
+  justify-content: flex-start !important;
+}
+
+.jc-end {
+  justify-content: flex-end !important;
+}
+
+.d-none {
+  display: none !important;
+}
+
+.headFont{
+  font-family: var(--main-font) !important;
+  font-weight: bold !important;
+  color: var(--main-color) !important;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.disable{
+  cursor: not-allowed !important;
+  opacity: 0.7 !important;
+}
+
+@media (max-width: 770px) {
+  .d-tablt-none {
+    display: none !important;
+  }
+}
+
+@media (max-width: 579px) {
+  .d-phone-none {
+    display: none !important;
+  }
+}

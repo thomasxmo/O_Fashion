@@ -1,0 +1,755 @@
+[
+  {
+    "id": 1,
+    "title": "RIBBED MIDI DRESS WITH STRAPS",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "dress",
+    "rating": 4,
+    "imgUrl": "dress1",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 256.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#111",
+      "#FFF",
+      "#A27C69",
+      "#4D6DB6"
+    ],
+    "colorsName": [
+      "black",
+      "white",
+      "beige ",
+      "blue"
+    ],
+    "msg": "sale",
+    "msgColor": "var(--main-color)",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "newArrivals": true,
+    "topSeller": true
+  },
+  {
+    "id": 2,
+    "title": "LONG TIE-DYE DRESS",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "dress",
+    "rating": 4,
+    "imgUrl": "dress2",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 256.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#B4C6D4",
+      "#A5B2BB"
+    ],
+    "colorsName": [
+      "green",
+      "blue"
+    ],
+    "msg": "sale",
+    "msgColor": "var(--main-color)",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "topSeller": true
+  },
+  {
+    "id": 3,
+    "title": "TEXTURED SLEEVELESS MIDI DRESS",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "dress",
+    "rating": 4,
+    "imgUrl": "dress3",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 256.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#00282A"
+    ],
+    "colorsName": [
+      "green"
+    ],
+    "msg": "sale",
+    "msgColor": "var(--main-color)",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "newArrivals": true
+  },
+  {
+    "id": 4,
+    "title": "SHORT ROUND NECK DRESS",
+    "stock": false,
+    "inWishList": false,
+    "inCart": false,
+    "category": "dress",
+    "rating": 3.5,
+    "imgUrl": "dress4",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 130.00,
+    "sizes": [
+      "s",
+      "m",
+      "l",
+      "xl"
+    ],
+    "colors": [
+      "#6E775C",
+      "#7C8089"
+    ],
+    "colorsName": [
+      "green",
+      "blue"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "bestSaller": true,
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "topSeller": true
+  },
+  {
+    "id": 5,
+    "title": "FAUX FUR JACKET WITH HOOD",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "jackets",
+    "rating": 3,
+    "imgUrl": "jackets1",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 430.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#FFF",
+      "#111"
+    ],
+    "colorsName": [
+      "white",
+      "black"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "newArrivals": true
+  },
+  {
+    "id": 6,
+    "title": "BROOKLYN BOMBER JACKET",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "jackets",
+    "rating": 3.5,
+    "imgUrl": "jackets2",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 260.00,
+    "sizes": [
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#51352A"
+    ],
+    "colorsName": [
+      "beige"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "topSeller": true
+  },
+  {
+    "id": 7,
+    "title": "FAUX LEATHER BIKER JACKET",
+    "stock": false,
+    "inWishList": false,
+    "inCart": false,
+    "category": "jackets",
+    "rating": 3,
+    "imgUrl": "jackets3",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 430.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#111"
+    ],
+    "colorsName": [
+      "black"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "bestSaller": true,
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "newArrivals": true
+  },
+  {
+    "id": 8,
+    "title": "PUFFER JACKET WITH A FUNNEL COLLAR",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "jackets",
+    "rating": 3.5,
+    "imgUrl": "jackets4",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 260.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#4D2621",
+      "#26252A",
+      "#E3DCCC",
+      "#25373B"
+    ],
+    "colorsName": [
+      "brown",
+      "black",
+      "white",
+      "green"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "topSeller": true
+  },
+  {
+    "id": 9,
+    "title": "Straight-leg high waist jeans",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "jeans",
+    "rating": 3.5,
+    "imgUrl": "jeans1",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 60.00,
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "colors": [
+      "#7A8FAE"
+    ],
+    "colorsName": [
+      "blue"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "topSeller": true
+  },
+  {
+    "id": 10,
+    "title": "WIDE-LEG JEANS",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "jeans",
+    "rating": 2,
+    "imgUrl": "jeans2",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 80.00,
+    "sizes": [
+      "37",
+      "38",
+      "39"
+    ],
+    "colors": [
+      "#0C2E52"
+    ],
+    "colorsName": [
+      "blue"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "bestSaller": true,
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1
+  },
+  {
+    "id": 11,
+    "title": "LOW-RISE BALLOON FIT JEANS",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "jeans",
+    "rating": 2.5,
+    "imgUrl": "jeans3",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 25.00,
+    "sizes": [
+      "38",
+      "40",
+      "41"
+    ],
+    "colors": [
+      "#7591A9"
+    ],
+    "colorsName": [
+      "blue"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "newArrivals": true,
+    "topSeller": true
+  },
+  {
+    "id": 12,
+    "title": "LOW-RISE BALLOON FIT JEANS",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "jeans",
+    "rating": 2.5,
+    "imgUrl": "jeans4",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 25.00,
+    "sizes": [
+      "38",
+      "39",
+      "40"
+    ],
+    "colors": [
+      "#181617"
+    ],
+    "colorsName": [
+      "black"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1
+  },
+  {
+    "id": 13,
+    "title": "T-shert for you",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "T-shirts",
+    "rating": 3.5,
+    "imgUrl": "T-shirt1",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 22.00,
+    "sizes": [
+      "s",
+      "m",
+      "l",
+      "xl"
+    ],
+    "colors": [
+      "#FFF",
+      "#000"
+    ],
+    "colorsName": [
+      "white",
+      "black"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "bestSaller": true,
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "newArrivals": true,
+    "topSeller": true
+  },
+  {
+    "id": 14,
+    "title": "T-shert for you",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "T-shirts",
+    "rating": 4.5,
+    "imgUrl": "T-shirt2",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 30.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#B1B5BE"
+    ],
+    "colorsName": [
+      "blue"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1
+  },
+  {
+    "id": 15,
+    "title": "T-shert for you",
+    "stock": false,
+    "inWishList": false,
+    "inCart": false,
+    "category": "T-shirts",
+    "rating": 4.5,
+    "imgUrl": "T-shirt3",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 30.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#C6ABDE"
+    ],
+    "colorsName": [
+      "purple"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1
+  },
+  {
+    "id": 16,
+    "title": "T-shert for you",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "T-shirts",
+    "rating": 5,
+    "imgUrl": "T-shirt4",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 25.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#B7684D"
+    ],
+    "colorsName": [
+      "orange"
+    ],
+    "msg": "top saler",
+    "msgColor": "#000",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1
+  },
+  {
+    "id": 17,
+    "title": "new jeans top",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "tops",
+    "rating": 4,
+    "imgUrl": "top1",
+    "imgColor": "color1",
+    "img1": "product1_1.jpg",
+    "img2": "product1_2.jpg",
+    "img3": "product1_3.jpg",
+    "img4": "product1_4.jpg",
+    "img5": "product1_5.jpg",
+    "img6": "product1_6.jpg",
+    "priceOff": 0.00,
+    "price": 99.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#BBAFA4"
+    ],
+    "colorsName": [
+      "brown jeans"
+    ],
+    "msg": "sale",
+    "msgColor": "var(--main-color)",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1
+  },
+  {
+    "id": 18,
+    "title": "Fainke Top",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "tops",
+    "rating": 5,
+    "imgUrl": "top2",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 25.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#A29282",
+      "#111"
+    ],
+    "colorsName": [
+      "beige",
+      "black"
+    ],
+    "msg": "top saler",
+    "msgColor": "#000",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1
+  },
+  {
+    "id": 19,
+    "title": "Horizen Blue Lins Top",
+    "stock": false,
+    "inWishList": false,
+    "inCart": false,
+    "category": "tops",
+    "rating": 5,
+    "imgUrl": "top3",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 25.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#243756"
+    ],
+    "colorsName": [
+      "blue"
+    ],
+    "msg": "top saler",
+    "msgColor": "#000",
+    "bestSaller": true,
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "newArrivals": true,
+    "topSeller": true
+  },
+  {
+    "id": 20,
+    "title": "basic top",
+    "stock": true,
+    "inWishList": false,
+    "inCart": false,
+    "category": "tops",
+    "rating": 3,
+    "imgUrl": "top4",
+    "imgColor": "color1",
+    "img1": "product_1.jpg",
+    "img2": "product_2.jpg",
+    "img3": "product_3.jpg",
+    "img4": "product_4.jpg",
+    "img5": "product_5.jpg",
+    "img6": "product_6.jpg",
+    "priceOff": 0.00,
+    "price": 30.00,
+    "sizes": [
+      "s",
+      "m",
+      "l"
+    ],
+    "colors": [
+      "#FFF",
+      "#000",
+      "#6A615A",
+      "#B51763"
+    ],
+    "colorsName": [
+      "white",
+      "black",
+      "beige ",
+      "pink"
+    ],
+    "msg": "",
+    "msgColor": "",
+    "SelectedColor": "",
+    "SelectedSize": "",
+    "numberOfOrder": 1,
+    "newArrivals": true,
+    "topSeller": true
+  }
+]

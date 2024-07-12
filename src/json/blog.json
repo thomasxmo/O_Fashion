@@ -1,0 +1,523 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "10 Years Experiences In Fashion",
+    "body": "Quisque elementum nibh at dolor pellentesque, a eleifend libero pharetra. Mauris neque felis, volutpat nec...",
+    "comment_count": 6,
+    "category": [
+      "Beauty",
+      "Fashon",
+      "Lifestyle",
+      "Trending"
+    ],
+    "imgUrl": "blog",
+    "img": "blog1.jpg",
+    "date": "Feb  6, 2023",
+    "author": "omar mohamed",
+    "tags": [
+      "Beauty",
+      "Men",
+      "Women",
+      "Hot",
+      "Trending",
+      "Love"
+    ],
+    "comments": [
+      {
+        "name": "sdfsdv",
+        "comment": "i love o fashon so mush",
+        "date": "Feb  12, 2023"
+      },
+      {
+        "name": "efwec",
+        "comment": "i love o fashon so mush",
+        "date": "Feb  22, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "Feb  23, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "Feb  27, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "Feb  26, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "Feb  14, 2023"
+      }
+    ],
+    "discussion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "quote": {
+      "body": "Maecenas semper aliquam massa. Praesent pharetra sem vitae nisi eleifend molestie. Aliquam molestie scelerisque ultricies. Suspendisse potenti. Phasellus interdum risus at mi ullamcorper lobortis. In et metus aliquet, suscipit leo.",
+      "name": "ROBERT SMITH"
+    }
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "Gigi And Bella Hadid’s Stylist",
+    "body": "Quisque elementum nibh at dolor pellentesque, a eleifend libero pharetra. Mauris neque felis, volutpat nec...",
+    "comment_count": 4,
+    "category": [
+      "Beauty",
+      "fashon"
+    ],
+    "imgUrl": "blog",
+    "img": "blog2.jpg",
+    "date": "Oct  12, 2023",
+    "author": "omar hekal",
+    "tags": [
+      "Beauty",
+      "Men",
+      "Women"
+    ],
+    "comments": [
+      {
+        "name": "sdfsdv",
+        "comment": "i love o fashon so mush",
+        "date": "Oct  12, 2023"
+      },
+      {
+        "name": "efwec",
+        "comment": "i love o fashon so mush",
+        "date": "Oct  22, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "Oct  23, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "Oct  23, 2023"
+      }
+    ],
+    "discussion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "quote": {
+      "body": "Maecenas semper aliquam massa. Praesent pharetra sem vitae nisi eleifend molestie. Aliquam molestie scelerisque ultricies. Suspendisse potenti. Phasellus interdum risus at mi ullamcorper lobortis. In et metus aliquet, suscipit leo.",
+      "name": "ROBERT SMITH"
+    }
+  },
+  {
+    "userId": 3,
+    "id": 3,
+    "title": "Gentlemen Cafe Racer Style",
+    "body": "Quisque elementum nibh at dolor pellentesque, a eleifend libero pharetra. Mauris neque felis, volutpat nec...",
+    "comment_count": 8,
+    "category": [
+      "Lifestyle",
+      "Trending"
+    ],
+    "imgUrl": "blog",
+    "img": "blog3.jpg",
+    "date": "July 24, 2023",
+    "author": "ali mohamed",
+    "tags": [
+      "Beauty",
+      "Men",
+      "Women",
+      "Hot"
+    ],
+    "comments": [
+      {
+        "name": "sdfsdv",
+        "comment": "i love o fashon so mush",
+        "date": "July  12, 2023"
+      },
+      {
+        "name": "efwec",
+        "comment": "i love o fashon so mush",
+        "date": "July  22, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "July  23, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "July  23, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "July  23, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "July  23, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "July  23, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "July  23, 2023"
+      }
+    ],
+    "discussion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "quote": {
+      "body": "Maecenas semper aliquam massa. Praesent pharetra sem vitae nisi eleifend molestie. Aliquam molestie scelerisque ultricies. Suspendisse potenti. Phasellus interdum risus at mi ullamcorper lobortis. In et metus aliquet, suscipit leo.",
+      "name": "ROBERT SMITH"
+    }
+  },
+  {
+    "userId": 4,
+    "id": 4,
+    "title": "Best Pictures in This Year’s",
+    "body": "Quisque elementum nibh at dolor pellentesque, a eleifend libero pharetra. Mauris neque felis, volutpat nec...",
+    "comment_count": 3,
+    "category": [
+      "Beauty",
+      "Lifestyle",
+      "Trending"
+    ],
+    "imgUrl": "blog",
+    "img": "blog4.jpg",
+    "date": "may 24, 2023",
+    "author": "ali hekal",
+    "tags": [
+      "Beauty",
+      "Hot",
+      "Trending",
+      "Love"
+    ],
+    "comments": [
+      {
+        "name": "sdfsdv",
+        "comment": "i love o fashon so mush",
+        "date": "may  12, 2023"
+      },
+      {
+        "name": "efwec",
+        "comment": "i love o fashon so mush",
+        "date": "may  22, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "may  23, 2023"
+      }
+    ],
+    "discussion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "quote": {
+      "body": "Maecenas semper aliquam massa. Praesent pharetra sem vitae nisi eleifend molestie. Aliquam molestie scelerisque ultricies. Suspendisse potenti. Phasellus interdum risus at mi ullamcorper lobortis. In et metus aliquet, suscipit leo.",
+      "name": "ROBERT SMITH"
+    }
+  },
+  {
+    "userId": 5,
+    "id": 5,
+    "title": "15 Top Fall Fashion Trends",
+    "body": "Quisque elementum nibh at dolor pellentesque, a eleifend libero pharetra. Mauris neque felis, volutpat nec...",
+    "comment_count": 5,
+    "category": [
+      "fashon",
+      "Lifestyle",
+      "Trending"
+    ],
+    "imgUrl": "blog",
+    "img": "blog5.jpg",
+    "date": "September 24, 2023",
+    "author": "mohamed ashraf",
+    "tags": [
+      "Women",
+      "Hot",
+      "Love"
+    ],
+    "comments": [
+      {
+        "name": "sdfsdv",
+        "comment": "i love o fashon so mush",
+        "date": "September  12, 2023"
+      },
+      {
+        "name": "efwec",
+        "comment": "i love o fashon so mush",
+        "date": "September  22, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "September  23, 2023"
+      },
+      {
+        "name": "fdsfsf",
+        "comment": "i love o fashon so mush",
+        "date": "September  21, 2023"
+      },
+      {
+        "name": "fdsfsf",
+        "comment": "i love o fashon so mush",
+        "date": "September  26, 2023"
+      }
+    ],
+    "discussion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "quote": {
+      "body": "Maecenas semper aliquam massa. Praesent pharetra sem vitae nisi eleifend molestie. Aliquam molestie scelerisque ultricies. Suspendisse potenti. Phasellus interdum risus at mi ullamcorper lobortis. In et metus aliquet, suscipit leo.",
+      "name": "ROBERT SMITH"
+    }
+  },
+  {
+    "userId": 6,
+    "id": 6,
+    "title": "iOS App Development",
+    "body": "Quisque elementum nibh at dolor pellentesque, a eleifend libero pharetra. Mauris neque felis, volutpat nec...",
+    "comment_count": 1,
+    "category": [
+      "Beauty",
+      "fashon",
+      "Lifestyle"
+    ],
+    "imgUrl": "blog",
+    "img": "blog6.jpg",
+    "date": "jan 31, 2023",
+    "author": "mohamed abdelal",
+    "tags": [
+      "Hot",
+      "Trending",
+      "Love"
+    ],
+    "comments": [
+      {
+        "name": "sdfsdv",
+        "comment": "i love o fashon so mush",
+        "date": "jan 12, 2023"
+      }
+    ],
+    "discussion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "quote": {
+      "body": "Maecenas semper aliquam massa. Praesent pharetra sem vitae nisi eleifend molestie. Aliquam molestie scelerisque ultricies. Suspendisse potenti. Phasellus interdum risus at mi ullamcorper lobortis. In et metus aliquet, suscipit leo.",
+      "name": "ROBERT SMITH"
+    }
+  },
+  {
+    "userId": 7,
+    "id": 7,
+    "title": "Raconteur Risings",
+    "body": "Quisque elementum nibh at dolor pellentesque, a eleifend libero pharetra. Mauris neque felis, volutpat nec...",
+    "comment_count": 2,
+    "category": [
+      "Beauty",
+      "Trending"
+    ],
+    "imgUrl": "blog",
+    "img": "blog7.jpg",
+    "date": "novamber 5, 2023",
+    "author": "ali mostafa",
+    "tags": [
+      "Hot",
+      "Trending",
+      "Love"
+    ],
+    "comments": [
+      {
+        "name": "sdfsdv",
+        "comment": "i love o fashon so mush",
+        "date": "novamber 12, 2023"
+      },
+      {
+        "name": "efwec",
+        "comment": "i love o fashon so mush",
+        "date": "novamber 22, 2023"
+      }
+    ],
+    "discussion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "quote": {
+      "body": "Maecenas semper aliquam massa. Praesent pharetra sem vitae nisi eleifend molestie. Aliquam molestie scelerisque ultricies. Suspendisse potenti. Phasellus interdum risus at mi ullamcorper lobortis. In et metus aliquet, suscipit leo.",
+      "name": "ROBERT SMITH"
+    }
+  },
+  {
+    "userId": 8,
+    "id": 8,
+    "title": "Best Designers To Watch",
+    "body": "Quisque elementum nibh at dolor pellentesque, a eleifend libero pharetra. Mauris neque felis, volutpat nec...",
+    "comment_count": 6,
+    "category": [
+      "fashon",
+      "Lifestyle"
+    ],
+    "imgUrl": "blog",
+    "img": "blog8.jpg",
+    "date": "june 5, 2023",
+    "author": "kareem hosam",
+    "tags": [
+      "Men",
+      "Women",
+      "Hot"
+    ],
+    "comments": [
+      {
+        "name": "sdfsdv",
+        "comment": "i love o fashon so mush",
+        "date": "march 12, 2023"
+      },
+      {
+        "name": "efwec",
+        "comment": "i love o fashon so mush",
+        "date": "june 22, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "june 23, 2023"
+      },
+      {
+        "name": "fdsfsf",
+        "comment": "i love o fashon so mush",
+        "date": "june 21, 2023"
+      },
+      {
+        "name": "fdsfsf",
+        "comment": "i love o fashon so mush",
+        "date": "june 26, 2023"
+      },
+      {
+        "name": "fdsfsf",
+        "comment": "i love o fashon so mush",
+        "date": "june 26, 2023"
+      }
+    ],
+    "discussion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "quote": {
+      "body": "Maecenas semper aliquam massa. Praesent pharetra sem vitae nisi eleifend molestie. Aliquam molestie scelerisque ultricies. Suspendisse potenti. Phasellus interdum risus at mi ullamcorper lobortis. In et metus aliquet, suscipit leo.",
+      "name": "ROBERT SMITH"
+    }
+  },
+  {
+    "userId": 9,
+    "id": 9,
+    "title": "Retail Designer/Architect At Parfums",
+    "body": "Quisque elementum nibh at dolor pellentesque, a eleifend libero pharetra. Mauris neque felis, volutpat nec...",
+    "comment_count": 4,
+    "category": [
+      "Beauty",
+      "fashon",
+      "Lifestyle"
+    ],
+    "imgUrl": "blog",
+    "img": "blog9.jpg",
+    "date": "April 20, 2023",
+    "author": "osama mohamed",
+    "tags": [
+      "Women",
+      "Hot",
+      "Trending"
+    ],
+    "comments": [
+      {
+        "name": "sadasd",
+        "comment": "i love o fashon so mush",
+        "date": "September 12, 2023"
+      },
+      {
+        "name": "ossfsfsfos",
+        "comment": "i love o fashon so mush",
+        "date": "September 22, 2023"
+      },
+      {
+        "name": "osfdsfsfos",
+        "comment": "i love o fashon so mush",
+        "date": "September 23, 2023"
+      },
+      {
+        "name": "dfgdf",
+        "comment": "i love o fashon so mush",
+        "date": "September 21, 2023"
+      }
+    ],
+    "discussion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "quote": {
+      "body": "Maecenas semper aliquam massa. Praesent pharetra sem vitae nisi eleifend molestie. Aliquam molestie scelerisque ultricies. Suspendisse potenti. Phasellus interdum risus at mi ullamcorper lobortis. In et metus aliquet, suscipit leo.",
+      "name": "ROBERT SMITH"
+    }
+  },
+  {
+    "userId": 10,
+    "id": 10,
+    "title": "World’s Most Sustainable White",
+    "body": "Quisque elementum nibh at dolor pellentesque, a eleifend libero pharetra. Mauris neque felis, volutpat nec...",
+    "comment_count": 5,
+    "category": [
+      "Lifestyle",
+      "Trending"
+    ],
+    "imgUrl": "blog",
+    "img": "blog10.jpg",
+    "date": "march 29, 2023",
+    "author": "nadre ali",
+    "tags": [
+      "Beauty",
+      "Hot",
+      "Love"
+    ],
+    "comments": [
+      {
+        "name": "sdfsdv",
+        "comment": "i love o fashon so mush",
+        "date": "march 12, 2023"
+      },
+      {
+        "name": "efwec",
+        "comment": "i love o fashon so mush",
+        "date": "march 22, 2023"
+      },
+      {
+        "name": "dfsdfwe",
+        "comment": "i love o fashon so mush",
+        "date": "march 23, 2023"
+      },
+      {
+        "name": "fdsfsf",
+        "comment": "i love o fashon so mush",
+        "date": "march 21, 2023"
+      },
+      {
+        "name": "fdsfsf",
+        "comment": "i love o fashon so mush",
+        "date": "march 26, 2023"
+      }
+    ],
+    "discussion1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "discussion3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea? Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aspernatur dolore, a fugit eius modi consequuntur vel iure perspiciatis odio magnam atque alias similique rerum! Repudiandae non amet officia ea?",
+    "quote": {
+      "body": "Maecenas semper aliquam massa. Praesent pharetra sem vitae nisi eleifend molestie. Aliquam molestie scelerisque ultricies. Suspendisse potenti. Phasellus interdum risus at mi ullamcorper lobortis. In et metus aliquet, suscipit leo.",
+      "name": "ROBERT SMITH"
+    }
+  }
+]
